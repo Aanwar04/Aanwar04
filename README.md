@@ -8,7 +8,7 @@ Technical Team Lead | IT Project Coordinator | Problem Solver
 
 About Me
 
-I'm a Technical Team Lead and developer who believes in building technology that solves real problems. With hands-on experience leading teams of 4-6 developers and delivering projects for local and international clients, I focus on execution, quality, and measurable impact.
+I'm a Technical Team Lead and developer who believes in building technology that solves real problems. With hands-on experience leading teams and delivering projects for local and international clients, I focus on execution, quality, and measurable impact.
 
 Currently leading development teams at AH & HNB Digital Creations while building BloodLine Connect—an AI-powered platform that's helping save lives by connecting blood donors with patients during emergencies.
 
